@@ -1,2 +1,2 @@
 # smiles2nmr
-A sample code of a project dedicated to the prediction of carbon NMR spectrum signals from molecular fragments obtained from SMILES. 
+Sample code from a project on the prediction of carbon NMR spectrum signals of molecular fragments derived from SMILES using a transformer model architecture
